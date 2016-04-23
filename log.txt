@@ -1,0 +1,20 @@
+******
+** ngspice-26 : Circuit level simulation program
+** The U. C. Berkeley CAD Group
+** Copyright 1985-1994, Regents of the University of California.
+** Please get your ngspice manual from http://ngspice.sourceforge.net/docs.html
+** Please file your bug-reports at http://ngspice.sourceforge.net/bugrep.html
+** Creation Date: Wed Apr 20 19:27:44 IST 2016
+******
+
+Circuit: lab 1, circuit 1
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+
+No. of Data Rows : 51
+
+The file "circuit1_dc.ps" may be printed on a postscript printer.
+y                   =  9.090909e-01
+Solution: vout = vin*0.909091
+ngspice 1 -> ngspice-26 done
