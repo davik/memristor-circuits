@@ -5,10 +5,12 @@ IMPLY Complete
 .param vmax=3
 .param cond = 10
 .param set=10.5
-.param p=10K
+.param p=1K
 .param q=10K
 .param rising_edge=1ns
-.param falling_edge=3ns
+.param falling_edge=4ns 
+
+***********4-1=3ns is the write time
 
 .csparam stime={stime}
 .csparam vmax={vmax}
@@ -37,7 +39,20 @@ let totaltime= stime
 tran $&deltime $&totaltime uic
 
 *plot i(vp), i(vq)
-plot v(3), v(1), v(2)
+************PLOTTING******************
+* set color0=white
+* set color1=black
+* set color2=rgb:f/0/0
+* set color3=rgb:0/0/f
+* set color4=rgb:0/f/0
+* set hcopyfontsize=10
+* set xbrushwidth=20
+* set hcopydevtype=postscript
+* plot v(3), v(1), v(2) title comparison
 settype impedance Xmemp.x1 Xmemq.x1
-plot Xmemp.x1 Xmemq.x1
+* plot Xmemp.x1 Xmemq.x1
+* hardcopy statedrift.eps Xmemp.x1 Xmemq.x1
+* set hcopyscolor=true
+gnuplot ../ppt/IMPLY10 Xmemp.x1 Xmemq.x1
+ 
 .endc
