@@ -1,0 +1,687 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: nutmeg
+%%BoundingBox: 54 54 612 612
+1 1 scale
+/Helvetica findfont 10 scalefont setfont
+
+[] 0 setdash
+[1 2] 0 setdash
+[] 0 setdash
+243 66 moveto
+(time) show
+[1 2] 0 setdash
+[] 0 setdash
+newpath
+84 104 moveto
+84 549 lineto
+stroke
+[1 2] 0 setdash
+[] 0 setdash
+75 87 moveto
+(0.0) show
+[1 2] 0 setdash
+newpath
+132 104 moveto
+132 549 lineto
+stroke
+[] 0 setdash
+123 87 moveto
+(1.0) show
+[1 2] 0 setdash
+newpath
+180 104 moveto
+180 549 lineto
+stroke
+[] 0 setdash
+171 87 moveto
+(2.0) show
+[1 2] 0 setdash
+newpath
+228 104 moveto
+228 549 lineto
+stroke
+[] 0 setdash
+219 87 moveto
+(3.0) show
+[1 2] 0 setdash
+newpath
+276 104 moveto
+276 549 lineto
+stroke
+[] 0 setdash
+267 87 moveto
+(4.0) show
+[1 2] 0 setdash
+newpath
+324 104 moveto
+324 549 lineto
+stroke
+[] 0 setdash
+315 87 moveto
+(5.0) show
+[1 2] 0 setdash
+newpath
+372 104 moveto
+372 549 lineto
+stroke
+[] 0 setdash
+363 87 moveto
+(6.0) show
+[1 2] 0 setdash
+newpath
+420 104 moveto
+420 549 lineto
+stroke
+[] 0 setdash
+411 87 moveto
+(7.0) show
+[1 2] 0 setdash
+newpath
+468 104 moveto
+468 549 lineto
+stroke
+[] 0 setdash
+459 87 moveto
+(8.0) show
+[1 2] 0 setdash
+newpath
+516 104 moveto
+516 549 lineto
+stroke
+[] 0 setdash
+507 87 moveto
+(9.0) show
+[1 2] 0 setdash
+newpath
+564 104 moveto
+564 549 lineto
+stroke
+[] 0 setdash
+552 87 moveto
+(10.0) show
+[1 2] 0 setdash
+[] 0 setdash
+382 66 moveto
+(ns) show
+[1 2] 0 setdash
+[] 0 setdash
+newpath
+84 104 moveto
+564 104 lineto
+stroke
+[1 2] 0 setdash
+[] 0 setdash
+66 101 moveto
+(0.0) show
+[1 2] 0 setdash
+newpath
+84 193 moveto
+564 193 lineto
+stroke
+[] 0 setdash
+66 190 moveto
+(2.0) show
+[1 2] 0 setdash
+newpath
+84 282 moveto
+564 282 lineto
+stroke
+[] 0 setdash
+66 279 moveto
+(4.0) show
+[1 2] 0 setdash
+newpath
+84 371 moveto
+564 371 lineto
+stroke
+[] 0 setdash
+66 368 moveto
+(6.0) show
+[1 2] 0 setdash
+newpath
+84 460 moveto
+564 460 lineto
+stroke
+[] 0 setdash
+66 457 moveto
+(8.0) show
+[1 2] 0 setdash
+newpath
+84 549 moveto
+564 549 lineto
+stroke
+[] 0 setdash
+60 546 moveto
+(10.0) show
+[1 2] 0 setdash
+[] 0 setdash
+54 582 moveto
+(kOhms) show
+[1 2] 0 setdash
+[7 7] 0 setdash
+newpath
+288 586 moveto
+312 586 lineto
+stroke
+[] 0 setdash
+318 582 moveto
+(xmem_h1x.x1) show
+[7 7] 0 setdash
+newpath
+84 104 moveto
+84 149 lineto
+85 149 lineto
+86 149 lineto
+87 149 lineto
+90 149 lineto
+96 149 lineto
+106 149 lineto
+115 149 lineto
+125 149 lineto
+132 149 lineto
+133 149 lineto
+135 149 lineto
+139 149 lineto
+146 149 lineto
+156 149 lineto
+166 149 lineto
+175 149 lineto
+185 149 lineto
+194 149 lineto
+204 149 lineto
+214 149 lineto
+215 149 lineto
+217 149 lineto
+222 149 lineto
+223 149 lineto
+226 149 lineto
+227 149 lineto
+230 149 lineto
+235 149 lineto
+244 149 lineto
+245 149 lineto
+248 149 lineto
+253 149 lineto
+254 149 lineto
+256 149 lineto
+261 149 lineto
+271 149 lineto
+280 149 lineto
+290 149 lineto
+299 149 lineto
+309 149 lineto
+319 149 lineto
+320 149 lineto
+322 149 lineto
+323 149 lineto
+324 149 lineto
+326 149 lineto
+331 149 lineto
+341 149 lineto
+350 149 lineto
+360 149 lineto
+370 149 lineto
+371 149 lineto
+373 149 lineto
+378 149 lineto
+388 149 lineto
+397 149 lineto
+407 149 lineto
+416 149 lineto
+426 149 lineto
+436 149 lineto
+445 149 lineto
+455 149 lineto
+464 149 lineto
+474 149 lineto
+484 149 lineto
+493 149 lineto
+503 149 lineto
+512 149 lineto
+522 149 lineto
+532 149 lineto
+541 149 lineto
+551 149 lineto
+560 149 lineto
+564 149 lineto
+stroke
+[3 3] 0 setdash
+newpath
+84 586 moveto
+108 586 lineto
+stroke
+[] 0 setdash
+114 582 moveto
+(xmem_h1y.x1) show
+[3 3] 0 setdash
+newpath
+84 104 moveto
+84 149 lineto
+85 149 lineto
+86 149 lineto
+87 149 lineto
+90 149 lineto
+96 149 lineto
+106 149 lineto
+115 149 lineto
+125 149 lineto
+132 149 lineto
+133 149 lineto
+135 149 lineto
+139 149 lineto
+146 149 lineto
+156 149 lineto
+166 149 lineto
+175 149 lineto
+185 149 lineto
+194 149 lineto
+204 149 lineto
+214 149 lineto
+215 149 lineto
+217 149 lineto
+222 149 lineto
+223 149 lineto
+226 149 lineto
+227 149 lineto
+230 149 lineto
+235 149 lineto
+244 149 lineto
+245 149 lineto
+248 149 lineto
+253 149 lineto
+254 149 lineto
+256 149 lineto
+261 149 lineto
+271 149 lineto
+280 149 lineto
+290 149 lineto
+299 149 lineto
+309 149 lineto
+319 149 lineto
+320 149 lineto
+322 149 lineto
+323 149 lineto
+324 149 lineto
+326 149 lineto
+331 149 lineto
+341 149 lineto
+350 149 lineto
+360 149 lineto
+370 149 lineto
+371 149 lineto
+373 149 lineto
+378 149 lineto
+388 149 lineto
+397 149 lineto
+407 149 lineto
+416 149 lineto
+426 149 lineto
+436 149 lineto
+445 149 lineto
+455 149 lineto
+464 149 lineto
+474 149 lineto
+484 149 lineto
+493 149 lineto
+503 149 lineto
+512 149 lineto
+522 149 lineto
+532 149 lineto
+541 149 lineto
+551 149 lineto
+560 149 lineto
+564 149 lineto
+stroke
+[7 2 2 2] 0 setdash
+newpath
+288 572 moveto
+312 572 lineto
+stroke
+[] 0 setdash
+318 568 moveto
+(xmem_h1z.x1) show
+[7 2 2 2] 0 setdash
+newpath
+84 104 moveto
+84 549 lineto
+85 549 lineto
+86 549 lineto
+87 549 lineto
+90 549 lineto
+96 549 lineto
+106 549 lineto
+115 549 lineto
+125 549 lineto
+132 549 lineto
+133 549 lineto
+135 549 lineto
+139 549 lineto
+146 549 lineto
+156 549 lineto
+166 549 lineto
+175 549 lineto
+185 549 lineto
+194 549 lineto
+204 549 lineto
+214 549 lineto
+215 549 lineto
+217 549 lineto
+222 549 lineto
+223 549 lineto
+226 549 lineto
+227 549 lineto
+230 549 lineto
+235 549 lineto
+244 549 lineto
+245 549 lineto
+248 549 lineto
+253 549 lineto
+254 549 lineto
+256 549 lineto
+261 549 lineto
+271 549 lineto
+280 549 lineto
+290 549 lineto
+299 549 lineto
+309 549 lineto
+319 549 lineto
+320 549 lineto
+322 549 lineto
+323 549 lineto
+324 549 lineto
+326 549 lineto
+331 549 lineto
+341 549 lineto
+350 549 lineto
+360 549 lineto
+370 549 lineto
+371 549 lineto
+373 549 lineto
+378 549 lineto
+388 549 lineto
+397 549 lineto
+407 549 lineto
+416 549 lineto
+426 549 lineto
+436 549 lineto
+445 549 lineto
+455 549 lineto
+464 549 lineto
+474 549 lineto
+484 549 lineto
+493 549 lineto
+503 549 lineto
+512 549 lineto
+522 549 lineto
+532 549 lineto
+541 549 lineto
+551 549 lineto
+560 549 lineto
+564 549 lineto
+stroke
+[3 2 1 2] 0 setdash
+newpath
+84 572 moveto
+108 572 lineto
+stroke
+[] 0 setdash
+114 568 moveto
+(xmem_h2z.x1) show
+[3 2 1 2] 0 setdash
+newpath
+84 104 moveto
+84 549 lineto
+85 549 lineto
+86 549 lineto
+87 549 lineto
+90 549 lineto
+96 549 lineto
+106 549 lineto
+115 549 lineto
+125 549 lineto
+132 549 lineto
+133 548 lineto
+135 547 lineto
+139 545 lineto
+146 541 lineto
+156 536 lineto
+166 531 lineto
+175 526 lineto
+185 521 lineto
+194 516 lineto
+204 511 lineto
+214 506 lineto
+215 505 lineto
+217 504 lineto
+222 501 lineto
+223 501 lineto
+226 500 lineto
+226 499 lineto
+227 499 lineto
+230 497 lineto
+235 495 lineto
+244 490 lineto
+245 490 lineto
+248 488 lineto
+253 486 lineto
+254 485 lineto
+256 484 lineto
+261 482 lineto
+271 477 lineto
+280 472 lineto
+290 467 lineto
+299 463 lineto
+309 458 lineto
+319 454 lineto
+320 453 lineto
+322 452 lineto
+323 452 lineto
+324 451 lineto
+326 450 lineto
+331 448 lineto
+341 443 lineto
+350 439 lineto
+360 434 lineto
+370 430 lineto
+371 429 lineto
+373 428 lineto
+378 426 lineto
+388 422 lineto
+397 418 lineto
+407 413 lineto
+416 409 lineto
+426 407 lineto
+436 407 lineto
+445 407 lineto
+455 407 lineto
+464 407 lineto
+474 407 lineto
+484 407 lineto
+493 407 lineto
+503 407 lineto
+512 407 lineto
+522 407 lineto
+532 407 lineto
+541 407 lineto
+551 407 lineto
+560 407 lineto
+564 407 lineto
+stroke
+[8 3 2 3] 0 setdash
+newpath
+288 558 moveto
+312 558 lineto
+stroke
+[] 0 setdash
+318 554 moveto
+(xmem_h3z.x1) show
+[8 3 2 3] 0 setdash
+newpath
+84 104 moveto
+84 549 lineto
+85 549 lineto
+86 549 lineto
+87 549 lineto
+90 549 lineto
+96 549 lineto
+106 549 lineto
+115 549 lineto
+125 549 lineto
+132 549 lineto
+133 548 lineto
+135 547 lineto
+139 545 lineto
+146 541 lineto
+156 536 lineto
+166 531 lineto
+175 526 lineto
+185 521 lineto
+194 516 lineto
+204 511 lineto
+214 506 lineto
+215 505 lineto
+217 504 lineto
+222 501 lineto
+223 501 lineto
+226 500 lineto
+226 499 lineto
+227 499 lineto
+230 497 lineto
+235 495 lineto
+244 490 lineto
+245 490 lineto
+248 488 lineto
+253 486 lineto
+254 485 lineto
+256 484 lineto
+261 482 lineto
+271 477 lineto
+280 472 lineto
+290 467 lineto
+299 463 lineto
+309 458 lineto
+319 454 lineto
+320 453 lineto
+322 452 lineto
+323 452 lineto
+324 451 lineto
+326 450 lineto
+331 448 lineto
+341 443 lineto
+350 439 lineto
+360 434 lineto
+370 430 lineto
+371 429 lineto
+373 428 lineto
+378 426 lineto
+388 422 lineto
+397 418 lineto
+407 413 lineto
+416 409 lineto
+426 407 lineto
+436 407 lineto
+445 407 lineto
+455 407 lineto
+464 407 lineto
+474 407 lineto
+484 407 lineto
+493 407 lineto
+503 407 lineto
+512 407 lineto
+522 407 lineto
+532 407 lineto
+541 407 lineto
+551 407 lineto
+560 407 lineto
+564 407 lineto
+stroke
+[14 2] 0 setdash
+newpath
+84 558 moveto
+108 558 lineto
+stroke
+[] 0 setdash
+114 554 moveto
+(xmem_h4z.x1) show
+[14 2] 0 setdash
+newpath
+84 104 moveto
+84 549 lineto
+85 549 lineto
+86 549 lineto
+87 549 lineto
+90 549 lineto
+96 549 lineto
+106 549 lineto
+115 549 lineto
+125 549 lineto
+132 549 lineto
+133 544 lineto
+135 534 lineto
+139 515 lineto
+146 479 lineto
+156 438 lineto
+166 400 lineto
+175 367 lineto
+185 336 lineto
+194 310 lineto
+204 286 lineto
+214 265 lineto
+215 263 lineto
+217 258 lineto
+222 249 lineto
+223 247 lineto
+226 243 lineto
+226 242 lineto
+227 240 lineto
+230 236 lineto
+235 229 lineto
+244 216 lineto
+245 214 lineto
+248 211 lineto
+253 206 lineto
+254 205 lineto
+256 202 lineto
+261 197 lineto
+271 189 lineto
+280 182 lineto
+290 177 lineto
+299 172 lineto
+309 169 lineto
+319 166 lineto
+320 166 lineto
+322 165 lineto
+323 165 lineto
+324 165 lineto
+326 164 lineto
+331 164 lineto
+341 162 lineto
+350 161 lineto
+360 160 lineto
+370 160 lineto
+371 160 lineto
+373 159 lineto
+378 159 lineto
+388 159 lineto
+397 159 lineto
+407 158 lineto
+416 158 lineto
+426 158 lineto
+436 158 lineto
+445 158 lineto
+455 158 lineto
+464 158 lineto
+474 158 lineto
+484 158 lineto
+493 158 lineto
+503 158 lineto
+512 158 lineto
+522 158 lineto
+532 158 lineto
+541 158 lineto
+551 158 lineto
+560 158 lineto
+564 158 lineto
+stroke
+showpage
+%%EOF
